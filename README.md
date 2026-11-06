@@ -1,12 +1,14 @@
 # Travel Simulator — Privacy Policy
 
-*Last updated: November 3, 2026*
+*Last updated: November 6, 2026*
 
 Travel Simulator ("the game") is an offline Android game.
 
 **The game collects no data.** It has no accounts, no ads and no analytics, and it does not ask for the internet permission, so it cannot send anything anywhere.
 
-**What stays on your phone.** The game remembers the endings and postcards you have collected, how many trips you have played, the trip you left halfway and the language you chose. This is kept in the game's own storage on your device, never leaves it, and is removed when you uninstall the game (or clear its data in Android's settings).
+**What stays on your phone.** The game remembers the endings, postcards and sights you have collected, how far your fellow tourists' stories have gone, the goals you have met, how many trips you have played, the trip you left halfway and the language you chose. This is kept in the game's own storage on your device, never leaves it, and is removed when you uninstall the game (or clear its data in Android's settings).
+
+**Photos.** If you tap the camera button, the game saves a picture of its own pixel scenery to your phone's gallery, in a folder called Travel Simulator. It saves only the game's scenery, never reads your other photos, and needs no permission to do this. These pictures stay in your gallery until you delete them; uninstalling the game does not remove them.
 
 **Links.** The About page has buttons for our X and YouTube pages and for rating the game in the store. They open in your own browser or app; the game itself sends nothing.
 
@@ -22,13 +24,15 @@ Travel Simulator ("the game") is an offline Android game.
 
 # 旅游模拟器 — 隐私政策
 
-*最近更新：2026 年 11 月 3 日*
+*最近更新：2026 年 11 月 6 日*
 
 《旅游模拟器》（下称“本游戏”）是一个离线的安卓游戏。
 
 **本游戏不收集任何数据。** 没有账号，没有广告，没有统计分析；它甚至没有申请联网权限，所以无法向任何地方发送任何内容。
 
-**留在你手机上的内容。** 本游戏会记住你收集到的结局和明信片、玩过几趟、半路没玩完的那一趟，以及你选的语言。这些只保存在你设备上本游戏自己的存储里，不会离开你的手机，卸载游戏（或在系统设置里清除它的数据）后即被删除。
+**留在你手机上的内容。** 本游戏会记住你收集到的结局、明信片和名胜，同团的人的事办到了哪一步，完成了多少小目标，玩过几趟、半路没玩完的那一趟，以及你选的语言。这些只保存在你设备上本游戏自己的存储里，不会离开你的手机，卸载游戏（或在系统设置里清除它的数据）后即被删除。
+
+**照片。** 如果你点相机按钮，本游戏会把它自己的像素风景存成一张图片，放进手机相册的 Travel Simulator 文件夹。它只存游戏里的风景，不读你的其他照片，也不需要申请权限。这些图片会一直留在相册里，直到你自己删除；卸载游戏不会删掉它们。
 
 **链接。** “关于”页有我们的 X 和 YouTube 按钮，还有去商店打分的按钮，点了会在你自己的浏览器或 App 里打开；游戏本身不发送任何内容。
 
